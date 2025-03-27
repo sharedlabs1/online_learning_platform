@@ -1,4 +1,4 @@
-# 🧪 OOPs Case-Based Assignment: Online Learning Platform
+# 🧪 OOPs  Assignment: Online Learning Platform
 
 ## 📚 Objective
 
